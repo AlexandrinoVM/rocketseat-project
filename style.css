@@ -22,7 +22,9 @@
     --switch-image-theme: url(./assets/sun.svg);
 }
 
-
+h1 {
+    
+}
 
 body{
     background-image: var(--bg-url);
